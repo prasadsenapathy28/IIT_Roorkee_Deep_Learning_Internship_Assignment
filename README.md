@@ -12,3 +12,11 @@ The tasks involved in this project include:
 ## Dataset
 
 The dataset is the Mental Arithmetic Tasks Dataset from PhysioNet.
+
+## Main branch
+
+It contains data and jupyter notebook.
+
+## Master branch
+
+It contains models (eegnet_model and tsception_model) in a zipped format.
